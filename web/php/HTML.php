@@ -5,12 +5,6 @@
     private static $main;
     private static $slide_images;
 
-    // $images = glob('../images/*jpg');
-    // foreach($images as $image){
-    //   echo $image."<br>";
-    // }
-
-
     public function __construct($title, $main){
     }
 /////////////////////////// html
