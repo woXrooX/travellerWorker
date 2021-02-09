@@ -1,6 +1,6 @@
 # travellerWorker
 PHP training
 
-original url https://traveller-worker.com/
+original website https://traveller-worker.com/
 
 2021
