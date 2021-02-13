@@ -1,6 +1,5 @@
 <?php
   include_once 'php/HTML.php';
-  include_once 'php/test.php';
 
   // index/home// -> STARTSEITE
   if($_SERVER['REQUEST_URI'] == "/" || $_SERVER['REQUEST_URI'] == "/home"){
