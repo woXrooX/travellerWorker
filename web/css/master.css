@@ -1,11 +1,3 @@
-/* Color Theme Swatches in RGBA */
-
-.empty-floor-with-modern-cityscape-in-new-york-2-rgba { color: rgba(147, 183, 191, 1); }
-.empty-floor-with-modern-cityscape-in-new-york-3-rgba { color: rgba(242, 242, 242, 1); }
-.empty-floor-with-modern-cityscape-in-new-york-4-rgba { color: rgba(216, 216, 216, 1); }
-.empty-floor-with-modern-cityscape-in-new-york-5-rgba { color: rgba(12, 12, 12, 1); }
-
-
 :root, html, body, *, *::before, *::after{
   margin:0;padding:0;
   box-sizing:border-box;
@@ -15,16 +7,6 @@
 
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0); /* Mobile link click effect disabling */
 }
-
-
-/* Remove Default Scroll Bar */
-/* *{
-  -ms-overflow-style: none;
-  scrollbar-width: none;
-}
-*::-webkit-scrollbar{
-  display:none;
-} */
 
 :root{
 
@@ -323,7 +305,6 @@ body > main{
   transform:translateY(100vh);
 
   display:grid;
-  /* grid-template-columns:repeat(auto-fit, minmax(300px, 1fr)); */
   grid-template-columns:auto auto;
   grid-template-rows:auto auto auto;
   grid-template-areas:
